@@ -180,6 +180,14 @@ header {
   width: 50%;
   height: 500px;
 }
+.left-about img {
+  border-radius: 7px;
+  position: relative;
+  top: 10%;
+  left: 200px;
+  width: 400px;
+  height: 500px;
+}
 
 .right-about {
   float: right;

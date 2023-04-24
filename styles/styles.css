@@ -181,12 +181,12 @@ header {
   height: 500px;
 }
 .left-about img {
-  border-radius: 7px;
+  border-radius: 8px;
   position: relative;
-  top: 10%;
+  top: 23%;
   left: 200px;
-  width: 400px;
-  height: 500px;
+  width: 450px;
+  height: 300px;
 }
 
 .right-about {
